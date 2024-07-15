@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ota/static/css/main.e6c13ad2.css",
+    "main.js": "/ota/static/js/main.bffa6d2c.js",
+    "static/js/453.3378b2cf.chunk.js": "/ota/static/js/453.3378b2cf.chunk.js",
+    "index.html": "/ota/index.html",
+    "main.e6c13ad2.css.map": "/ota/static/css/main.e6c13ad2.css.map",
+    "main.bffa6d2c.js.map": "/ota/static/js/main.bffa6d2c.js.map",
+    "453.3378b2cf.chunk.js.map": "/ota/static/js/453.3378b2cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bffa6d2c.js"
+  ]
+}
